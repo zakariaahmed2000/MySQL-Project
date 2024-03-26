@@ -1,1 +1,1 @@
-# MySQL-Project
+# MySQL - Data Manipulation Project
